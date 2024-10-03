@@ -46,3 +46,12 @@ console.log(`
     null
 
  */
+
+/**
+ * Constructor for implicit
+ *
+ * to convert into string  - String()
+ * to convert into number - Number()
+ * to convert into boolean - Boolean()
+ */
+
