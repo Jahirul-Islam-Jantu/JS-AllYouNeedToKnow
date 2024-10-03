@@ -36,3 +36,13 @@ console.log(`
     module (strToNum("1001") % numToString(100)) = ${mod} value.
     
 `)
+
+//falsy values in javascript
+/*
+    ""
+    undefined
+    NaN
+    0
+    null
+
+ */
