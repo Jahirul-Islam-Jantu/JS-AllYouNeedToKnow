@@ -32,3 +32,7 @@ if (a < b && c < d && d < a) {
 }else{
     console.log("Condition is in COMA")
 }
+
+const notOperator1 = !(a>b)
+const notOperator2 = !!(a>b)
+console.log(notOperator1, notOperator2)
