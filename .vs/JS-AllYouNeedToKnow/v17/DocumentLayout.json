@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "F:\\JS-AllYouNeedToKnow\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\JS-AllYouNeedToKnow\\typeConversion.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:typeConversion.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\JS-AllYouNeedToKnow\\function\\innerFn.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:function\\innerFn.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,14 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "typeConversion.js",
-              "DocumentMoniker": "F:\\JS-AllYouNeedToKnow\\typeConversion.js",
-              "RelativeDocumentMoniker": "typeConversion.js",
-              "ToolTip": "F:\\JS-AllYouNeedToKnow\\typeConversion.js",
-              "RelativeToolTip": "typeConversion.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Title": "innerFn.js",
+              "DocumentMoniker": "F:\\JS-AllYouNeedToKnow\\function\\innerFn.js",
+              "RelativeDocumentMoniker": "function\\innerFn.js",
+              "ToolTip": "F:\\JS-AllYouNeedToKnow\\function\\innerFn.js",
+              "RelativeToolTip": "function\\innerFn.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-10-02T17:21:26.857Z",
+              "WhenOpened": "2024-10-11T09:31:27.764Z",
               "EditorCaption": ""
             }
           ]

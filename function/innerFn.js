@@ -10,3 +10,5 @@ function greetings (greet, name){           // this is the main function to take
     console.log(greetMessages)
 }
 greetings("Good Morning", "Jahirul Islam")
+
+console.log("Hello World!")
