@@ -26,11 +26,17 @@ forEach(arr, function(value, index, arr){
 })
 console.log(arr)
 
+let sum2 = 0
 forEach(arr, function(value, index, arr){
-    arr[index] = value * 10
+    let increasedValue =  arr[index] = value * 10
+    sum2 += increasedValue
+    return sum2
 })
 const result = arr
-
-
-
 console.log(result)
+
+const resultOfSum2Average = sum2/arr.length
+console.log(resultOfSum2Average)
+
+
+
