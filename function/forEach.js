@@ -19,3 +19,18 @@ forEach(arr, function(value, index, arr){  // we are making our own forEach func
     return  sum += value
 })
     console.log(sum)
+
+forEach(arr, function(value, index, arr){
+    arr[index] = value +10
+    return arr
+})
+console.log(arr)
+
+forEach(arr, function(value, index, arr){
+    arr[index] = value * 10
+})
+const result = arr
+
+
+
+console.log(result)
