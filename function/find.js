@@ -35,11 +35,18 @@ const students = [
 // })
 // console.log(findByIndex)
 
-function myFind(arr, cb){
-    for (let i = 0; i < arr.length; i++){
-
+function myFind(students, cb){  // we will get a callback function and the array from parameter
+    for (let i = 0; i < students.length; i++){ // we are traversing the array elements
+        if (cb(students[i])){ // passing the callback function
+            // return students[i] // if we need the student information with specific value we have to return the array with the element.
+            return i // if we have to find the index number of specific value we have to return the individual elelment
+        }
     }
 }
+const findByValue = myFind(students, (value)=>{
+    return value.id === "std_3"
+})
+console.log(findByValue)
 
 
 
