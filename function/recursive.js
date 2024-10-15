@@ -27,7 +27,7 @@ console.log(factorialNumber(10))
 const array = [1,2,3,4,5,6,7,8,9]
 
 function addNumbers (array, lastIndex){
-    if (lastIndex === 0){
+    if (lastIndex < 0){
         return 0
     }
     return array[lastIndex]+ addNumbers(array, lastIndex -1)
