@@ -99,3 +99,11 @@
 const date = new Date();
 
 console.log(date.toLocaleString());
+const arr = [1,2,3,4,5,6,7,8,9]
+function sum(arr, lastIndex){
+    if (lastIndex < 0)
+        return 0
+    return arr[lastIndex] + sum(arr, lastIndex -1)
+}
+
+console.log(sum(arr, arr.length - 1))
