@@ -96,14 +96,24 @@
 // const number = BigInt(1894151354189466876541658791354887548);
 // console.log(number);
 
-const date = new Date();
+// const date = new Date();
+//
+// console.log(date.toLocaleString());
+// const arr = [1,2,3,4,5,6,7,8,9]
+// function sum(arr, lastIndex){
+//     if (lastIndex < 0)
+//         return 0
+//     return arr[lastIndex] + sum(arr, lastIndex -1)
+// }
+//
+// console.log(sum(arr, arr.length - 1))
+//
 
-console.log(date.toLocaleString());
-const arr = [1,2,3,4,5,6,7,8,9]
-function sum(arr, lastIndex){
-    if (lastIndex < 0)
-        return 0
-    return arr[lastIndex] + sum(arr, lastIndex -1)
-}
 
-console.log(sum(arr, arr.length - 1))
+let arr1 = 10
+let arr2 = "Jahir"
+let arr3 = 20
+
+let arr4 = [arr1, arr2, arr3]
+console.log(arr4)
+
