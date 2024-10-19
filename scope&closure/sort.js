@@ -117,3 +117,5 @@ let arr3 = 20
 let arr4 = [arr1, arr2, arr3]
 console.log(arr4)
 
+const arr = [10, 20, 30, 40, 50]
+console.log(arr)
