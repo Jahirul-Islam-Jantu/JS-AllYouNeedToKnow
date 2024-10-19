@@ -1,0 +1,14 @@
+body{
+    font-family: Candara;
+    font-size: 5rem;
+    font-weight: 700;
+    background: linear-gradient(230deg,black,brown);
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    text-align: center;
+
+}

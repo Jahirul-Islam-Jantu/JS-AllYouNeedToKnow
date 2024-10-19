@@ -27,6 +27,7 @@ const Rectangle = function (width, height) { // in Object Oriented programming w
     })
 
 
+
 };
 
 
