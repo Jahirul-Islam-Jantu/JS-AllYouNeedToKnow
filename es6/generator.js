@@ -1,4 +1,4 @@
-const arr = [1,2,3]
+// const arr = [1,2,3]
 // for (let v of arr){
 //     console.log(v)
 // }
@@ -22,6 +22,7 @@ console.log(itr.next())
 console.log(itr.next())
 console.log(itr.next())
 
+const arr = [1,2,3]
 
 function* generate(){
     for(let i = 0; i < arr.length; i++){
