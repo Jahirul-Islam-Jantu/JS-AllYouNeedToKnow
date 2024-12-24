@@ -10,5 +10,3 @@ console.log(Object.entries(obj)) // Object.entries method will return the key va
 const obj2 = Object.assign({}, obj) // Object.assign method is used for cloning an object to another without any change. it will remain the same value if we change any value or key in the new object.
 obj2.name = 'JohnSmith'
 
-console.log(obj)
-console.log(obj2)
