@@ -24,8 +24,8 @@ console.log(obj.sum(6,5))
 
 // We can create function as need
 setTimeout(function (){
-    add(6,5)
-}, 3000)
+    add(11,10)
+}, 30000)
 
 // We can pass function as an arguments
 // we can return function from another function
